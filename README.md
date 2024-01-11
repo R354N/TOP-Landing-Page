@@ -1,1 +1,2 @@
 # TOP-Landing-Page
+This is a learning project intended to exercise HTML and CSS skills. The project comes from The Odin Project Foundations Course https://www.theodinproject.com/lessons/foundations-landing-page
